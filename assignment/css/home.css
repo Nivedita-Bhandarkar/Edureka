@@ -1,0 +1,18 @@
+header{
+    border: 20px solid #f2cfc2 ;
+   
+}
+
+body{
+    margin:auto;
+}
+
+#header_popText{
+    background-color: #f2cfc2;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    padding: .2%;
+    color: #000000;
+    animation: move 2s ease-in-out infinite;
+    
+}
